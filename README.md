@@ -46,7 +46,7 @@ int main(void)
 
 ```
 
-##OUTPUT
+## OUTPUT
 ![01](https://github.com/HEMAKESHG/Linux-Process-API-fork-wait-exec/assets/144870552/365cb503-5160-4d09-8b2b-4f2c81339a74)
 
 
@@ -73,7 +73,7 @@ exit(0);}
 }
 ```
 
-##OUTPUT
+## OUTPUT
 ![02](https://github.com/HEMAKESHG/Linux-Process-API-fork-wait-exec/assets/144870552/69d01bc6-5a9a-4fcf-bed7-6c994eda2c48)
 
 
@@ -107,7 +107,7 @@ printf("Running ps with execlp. Now with path specified\n");
 
 ```
 
-##OUTPUT
+## OUTPUT
 ![0003](https://github.com/HEMAKESHG/Linux-Process-API-fork-wait-exec/assets/144870552/0b3fc751-8b0d-45f0-a780-8d91080ae2f5)
 
 
